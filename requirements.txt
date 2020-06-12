@@ -1,0 +1,6 @@
+numpy
+tqdm
+torch
+torch_scope
+Cython
+gensim
