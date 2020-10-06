@@ -1,5 +1,13 @@
 # SeNsER
 
+Code of paper:
+
+SeNsER: Learning Cross-Building Sensor Metadata Tagger.
+
+Yang Jiao*, Jiacheng Li*, Jiaman Wu, Dezhi Hong, Rajesh Gupta and Jingbo Shang. EMNLP (Findings) 2020.
+
+Please cite above paper if you think the code or data is helpful. 
+
 ## Quick Links
 
 - [SeNsER](#senser)
